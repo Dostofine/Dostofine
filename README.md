@@ -34,8 +34,7 @@ Outside of classes, I spend my time:
 - Bash  
 
 ### **Operating Systems**
-- Parrot OS  
-- Ubuntu  
+- Linux 
 - Windows (when needed)  
 
 ### **Developer Tools**
