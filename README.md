@@ -1,5 +1,7 @@
 Ilyas Et‑Thabity
 
+![Banner](./ilyas.png)
+
 Welcome to my corner of the internet! I’m Ilyas Et‑Thabity, a student at the University Chouaib Doukkali (UCD) in El Jadida, Morocco. I’m passionate about applied computer science and cyber security, and I lead UCD‑CYBERFORCE, a student club focused on hacking, forensics and networking. When I’m not studying algorithms or dissecting packets, you’ll find me tinkering with Linux, writing C and Python, and building tools for our club.
 
 🚀 Mission & Focus
@@ -36,8 +38,6 @@ github.com
 GitHub: Dostofine
 
 LinkedIn: ilyas‑etthabity
-
-![Banner](./ilyas.png)
 
 If you’d like to discuss a project, join UCD‑CYBERFORCE or just chat about tech, feel free to reach out via LinkedIn.
 
