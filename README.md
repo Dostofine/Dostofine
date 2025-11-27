@@ -37,6 +37,7 @@ GitHub: Dostofine
 
 LinkedIn: ilyas‑etthabity
 
+![Banner](./ilyas.png)
 
 If you’d like to discuss a project, join UCD‑CYBERFORCE or just chat about tech, feel free to reach out via LinkedIn.
 
