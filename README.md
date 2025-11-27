@@ -40,7 +40,7 @@ Outside of classes, I spend my time:
 ### **Developer Tools**
 - Git, GitHub  
 - VS Code / VSCodium  
-- VirtualBox  
+- Vim & Neovim
 - Linux system administration  
 
 ### **Core Concepts**
