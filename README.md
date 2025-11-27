@@ -1,56 +1,107 @@
-Ilyas Et‑Thabity
+<h1 align="center">👋 Hi, I'm Ilyas Et-Thabity (Dostofine)</h1>
 
-![Banner](./ilyas.png)
+<p align="center">
+  <img src="./ilyas.png" alt="Banner" width="100%" />
+</p>
 
-Welcome to my corner of the internet! I’m Ilyas Et‑Thabity, a student at the University Chouaib Doukkali (UCD) in El Jadida, Morocco. I’m passionate about applied computer science and cyber security, and I lead UCD‑CYBERFORCE, a student club focused on hacking, forensics and networking. When I’m not studying algorithms or dissecting packets, you’ll find me tinkering with Linux, writing C and Python, and building tools for our club.
+<p align="center">
+  <b>Applied Computer Science Student @ Université Chouaib Doukkali (UCD), El Jadida</b><br>
+  Founder & President of <b>UCD-CYBERFORCE</b> | Cybersecurity | Linux | C | Python
+</p>
 
-🚀 Mission & Focus
+---
 
-Empower learning through code: I love turning theory into practice. Whether it’s a simple C program or a complex network scanner, I build to learn and to teach.
+## 🧑‍💻 About Me
 
-Grow the cyber community: As founder of UCD‑CYBERFORCE, I organize workshops, CTFs and study groups to share knowledge and cultivate our local cyber culture.
+I’m a first-year student in **Applied Computer Science** at **UCD El Jadida (Morocco)**.  
+My interests revolve around **cybersecurity**, **Linux systems**, **networking**, and **low-level programming**.
 
-Explore the unknown: From low‑level programming to network protocols, I’m always curious and eager to dive deeper into new technologies.
+Outside of classes, I spend my time:
 
-🧰 Skills & Tools
+- 🔍 Exploring Linux internals and terminals  
+- 🐍 Writing Python tools for automation and cybersecurity  
+- 🧵 Building C programs and understanding memory, pointers, and system calls  
+- 🧩 Leading **UCD-CYBERFORCE**, our university’s cybersecurity club  
+- 📡 Running workshops, CTF sessions, and learning events for beginners  
 
-Languages: C, Python, Bash
+---
 
-Operating systems: Linux (Parrot OS, Ubuntu), Windows when necessary
+## 🧰 Skills & Tools
 
-Dev & tools: Git, GitHub,
+### **Languages**
+- C  
+- Python  
+- Bash  
 
-Core concepts: Algorithms & data structures, networking fundamentals, cyber security basics, Linux administration
+### **Operating Systems**
+- Parrot OS  
+- Ubuntu  
+- Windows (when needed)  
 
-📈 GitHub Stats
+### **Developer Tools**
+- Git, GitHub  
+- VS Code / VSCodium  
+- VirtualBox  
+- Linux system administration  
 
-These cards are powered by github‑readme‑stats
+### **Core Concepts**
+- Algorithms & Data Structures  
+- Networking fundamentals  
+- Cybersecurity basics (CTF, reconnaissance, encryption, etc.)  
+- Packet analysis & system utilities  
 
-. Passing the show_icons=true query parameter enables language and repo icons on the stats card
-github.com
-. I’ve selected the transparent theme to work well in both light and dark modes
-github.com
-.
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dostofine&show_icons=true&theme=transparent&hide_border=true" alt="Ilyas Et‑Thabity's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> </p>
-🌐 Connect with Me
+## 🧨 UCD-CYBERFORCE (My Cybersecurity Club)
 
-GitHub: Dostofine
+I’m the **founder and president** of **UCD-CYBERFORCE**, a student-led cybersecurity club at UCD.
 
-LinkedIn: ilyas‑etthabity
+We focus on:
 
-If you’d like to discuss a project, join UCD‑CYBERFORCE or just chat about tech, feel free to reach out via LinkedIn.
+- 🐧 Linux for security  
+- 🧩 CTF training (OverTheWire, PicoCTF, etc.)  
+- 🌐 Networking & packet analysis  
+- 🛡 Blue team vs Red team mindset  
+- 👥 Workshops, Discord training, and beginner-friendly sessions  
 
-📅 What’s Next
+If you're a student at UCD, feel free to connect and join us.
 
-I’m continually learning and growing. Upcoming goals include:
+---
 
-Diving deeper into network security, including IDS/IPS and secure protocols
+## 📈 GitHub Stats
 
-Mastering kernel and systems programming in C
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dostofine&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
 
-Exploring exploit development and reverse engineering
+---
 
-Contributing to open‑source cyber security projects
+## 🌐 Connect With Me
 
-Stay tuned for new repos, blog posts and club activities! ✨
+<p>
+  <a href="https://github.com/Dostofine">
+    <img src="https://img.shields.io/badge/GitHub-Dostofine-181717?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilyas-etthabity-25ab3b381/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ilyas%20Et--Thabity-0A66C2?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
+
+If you want to collaborate on a project, join **UCD-CYBERFORCE**, or just chat about Linux & cybersecurity, feel free to contact me!
+
+---
+
+## 🚀 What’s Next?
+
+Here’s what I’m currently working on:
+
+- 📡 Going deeper into **network security** (IDS/IPS, secure protocols)  
+- 🧠 Learning **systems & kernel programming in C**  
+- 🐞 Studying **exploit development** & **reverse engineering**  
+- 🤝 Preparing to contribute to open-source security projects  
+- 🧩 Building tools for internal club training and CTF practice  
+
+Stay tuned for new repos, tutorials, and club activities! ✨
+
+---
