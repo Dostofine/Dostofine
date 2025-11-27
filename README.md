@@ -77,7 +77,6 @@ If you're a student at UCD, feel free to connect and join us.
 ---
 
 ## 🌐 Connect With Me
-
 <p>
   <a href="https://github.com/Dostofine">
     <img src="https://img.shields.io/badge/GitHub-Dostofine-181717?logo=github&style=for-the-badge" />
@@ -85,7 +84,11 @@ If you're a student at UCD, feel free to connect and join us.
   <a href="https://www.linkedin.com/in/ilyas-etthabity-25ab3b381/">
     <img src="https://img.shields.io/badge/LinkedIn-Ilyas%20Et--Thabity-0A66C2?logo=linkedin&style=for-the-badge" />
   </a>
+  <a href="mailto:ilyasetthabity0809@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ilyasetthabity0809%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
+
 
 If you want to collaborate on a project, join **UCD-CYBERFORCE**, or just chat about Linux & cybersecurity, feel free to contact me!
 
