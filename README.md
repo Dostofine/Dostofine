@@ -66,7 +66,6 @@ We focus on:
 If you're a student at UCD, feel free to connect and join us.
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
