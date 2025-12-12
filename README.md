@@ -51,8 +51,7 @@ Outside of classes, I spend my time:
 
 ---
 
-## 🧨 UCD-CYBERFORCE (My Cybersecurity Club)
-
+## 🧨 UCD-CYBERFORCE 
 I’m the **founder and president** of **UCD-CYBERFORCE**, a student-led cybersecurity club at UCD.
 
 We focus on:
