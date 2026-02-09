@@ -18,11 +18,11 @@ My interests revolve around **cybersecurity**, **Linux systems**, **networking**
 
 Outside of classes, I spend my time:
 
-- 🔍 Exploring Linux internals and terminals  
-- 🐍 Writing Python tools for automation and cybersecurity  
-- 🧵 Building C programs and understanding memory, pointers, and system calls  
-- 🧩 Leading **UCD-CYBERFORCE**, our university’s cybersecurity club  
-- 📡 Running workshops, CTF sessions, and learning events for beginners  
+-  Exploring Linux internals and terminals  
+-  Writing Python tools for automation and cybersecurity  
+-  Building C programs and understanding memory, pointers, and system calls  
+-  Leading **UCD-CYBERFORCE**, our university’s cybersecurity club  
+-  Running workshops, CTF sessions, and learning events for beginners  
 
 ---
 
