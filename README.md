@@ -92,14 +92,25 @@ If you're a student at UCD, feel free to connect and join us.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Dostofine&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Dostofine&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=1800"
     height="180"
     alt="Dostofine's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800"
     height="180"
     alt="Most Used Languages"
+  />
+</p>
+
+---
+
+### 📉 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dostofine&theme=tokyo-night&hide_border=true&radius=10"
+    alt="Contribution Graph"
   />
 </p>
 
@@ -113,19 +124,6 @@ If you're a student at UCD, feel free to connect and join us.
     alt="GitHub Trophies"
   />
 </p>
-
----
-
-### 📉 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dostofine&theme=tokyo-night&hide_border=true&border_radius=10"
-    alt="Contribution Graph"
-  />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p>
