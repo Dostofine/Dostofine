@@ -9,7 +9,6 @@
 ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
-<img src="./ilyas.png" alt="Banner" width="80%" style="border-radius: 12px;" />
 
 <br/>
 
