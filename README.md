@@ -86,15 +86,15 @@ If you're a student at UCD, feel free to connect and join us.
 ### 📈 Stats & Languages
 
 <p align="center">
-  <img src="https://github.com/Dostofine/Dostofine/blob/main/profile-summary-card-output/tokyo-night/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Dostofine/Dostofine/main/profile-summary-card-output/tokyo-night/0-profile-details.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github.com/Dostofine/Dostofine/blob/main/profile-summary-card-output/tokyo-night/1-repos-per-language.svg" width="48%" />
-  <img src="https://github.com/Dostofine/Dostofine/blob/main/profile-summary-card-output/tokyo-night/2-most-commit-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Dostofine/Dostofine/main/profile-summary-card-output/tokyo-night/1-repos-per-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Dostofine/Dostofine/main/profile-summary-card-output/tokyo-night/2-most-commit-language.svg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github.com/Dostofine/Dostofine/blob/main/profile-summary-card-output/tokyo-night/3-stats.svg" width="48%" />
-  <img src="https://github.com/Dostofine/Dostofine/blob/main/profile-summary-card-output/tokyo-night/4-productive-time.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Dostofine/Dostofine/main/profile-summary-card-output/tokyo-night/3-stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Dostofine/Dostofine/main/profile-summary-card-output/tokyo-night/4-productive-time.svg" width="48%" />
 </p>
 
 ---
@@ -104,6 +104,8 @@ If you're a student at UCD, feel free to connect and join us.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dostofine&theme=tokyo-night&hide_border=true&radius=10" />
 </p>
+---
+
 ## 🌐 Connect With Me
 <p>
   <a href="https://github.com/Dostofine">
