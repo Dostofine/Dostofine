@@ -66,20 +66,18 @@ If you're a student at UCD, feel free to connect and join us.
 
 ---
 ## 📈 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats-sand-five-53.vercel.app/api?username=Dostofine&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Dostofine&show_icons=true&theme=transparent&hide_border=true"
     height="165"
     alt="Dostofine's GitHub stats"
   />
   <img
-    src="https://github-readme-stats-sand-five-53.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=transparent&hide_border=true"
     height="165"
     alt="Most Used Languages"
   />
 </p>
-
 
 ---
 
