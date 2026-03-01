@@ -64,22 +64,68 @@ We focus on:
 
 If you're a student at UCD, feel free to connect and join us.
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Visitor Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=Dostofine&color=0e75b6&style=flat)
+
+</div>
+
 ---
-## 📈 GitHub Stats
+
+### 🔥 Streak & Activity
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Dostofine&theme=transparent&hide_border=true"
-    height="165"
-    alt="Dostofine's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Dostofine&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
+
+---
+
+### 📈 Overall Stats & Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dostofine&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true"
+    height="180"
+    alt="Dostofine's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=transparent&hide_border=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostofine&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
+    height="180"
     alt="Most Used Languages"
   />
 </p>
+
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Dostofine&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+### 📉 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dostofine&theme=tokyo-night&hide_border=true&border_radius=10"
+    alt="Contribution Graph"
+  />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 <p>
